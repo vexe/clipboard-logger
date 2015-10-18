@@ -1,0 +1,20 @@
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\bin\Debug\ClipboardLog.exe
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\bin\Debug\ClipboardLog.pdb
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\obj\x86\Debug\ClipboardLog.Form1.resources
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\obj\x86\Debug\ClipboardLog.Properties.Resources.resources
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\obj\x86\Debug\ClipboardLog.exe
+c:\users\vexe\documents\visual studio 2010\Projects\ClipboardLog\ClipboardLog\obj\x86\Debug\ClipboardLog.pdb
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\ClipboardLog.exe
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\ClipboardLog.pdb
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\bin\Debug\ClipboardLog.exe
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\bin\Debug\ClipboardLog.pdb
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\ClipboardLog.Form1.resources
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\ClipboardLog.Properties.Resources.resources
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\C#\MyC#Apps\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc\Downloads\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\ClipboardLog.exe
+C:\Users\pc\Downloads\ClipboardLogger\TheProject\ClipboardLog\obj\x86\Debug\ClipboardLog.pdb
